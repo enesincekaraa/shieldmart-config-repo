@@ -1,0 +1,7 @@
+# Path: shieldmart-config-repo/product-service.yml
+server:
+  port: 8081
+
+spring:
+  application:
+    name: product-service
